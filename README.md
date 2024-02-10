@@ -1,5 +1,5 @@
 # Deep-Learning
-# Projects Coded in Python Language
+Projects Coded in Python Language
 
 # Project : Digit Recognizer
 Goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. Experiment with different algorithms to learn first-hand what works well and how techniques compare.
